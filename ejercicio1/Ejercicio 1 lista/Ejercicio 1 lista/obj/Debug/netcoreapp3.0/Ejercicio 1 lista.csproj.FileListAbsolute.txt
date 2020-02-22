@@ -1,0 +1,11 @@
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\bin\Debug\netcoreapp3.0\Ejercicio 1 lista.exe
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\bin\Debug\netcoreapp3.0\Ejercicio 1 lista.deps.json
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\bin\Debug\netcoreapp3.0\Ejercicio 1 lista.runtimeconfig.json
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\bin\Debug\netcoreapp3.0\Ejercicio 1 lista.runtimeconfig.dev.json
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\bin\Debug\netcoreapp3.0\Ejercicio 1 lista.dll
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\bin\Debug\netcoreapp3.0\Ejercicio 1 lista.pdb
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\obj\Debug\netcoreapp3.0\Ejercicio 1 lista.csprojAssemblyReference.cache
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\obj\Debug\netcoreapp3.0\Ejercicio 1 lista.AssemblyInfoInputs.cache
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\obj\Debug\netcoreapp3.0\Ejercicio 1 lista.AssemblyInfo.cs
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\obj\Debug\netcoreapp3.0\Ejercicio 1 lista.dll
+C:\Users\Johan\Desktop\examen\Ejercicio 1 lista\Ejercicio 1 lista\obj\Debug\netcoreapp3.0\Ejercicio 1 lista.pdb
