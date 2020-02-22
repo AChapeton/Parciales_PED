@@ -1,0 +1,7 @@
+C:\Users\chape\OneDrive\Documentos\UDB\Ciclo1_2020\PED\Parcial1\Ejercicio2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\chape\OneDrive\Documentos\UDB\Ciclo1_2020\PED\Parcial1\Ejercicio2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\chape\OneDrive\Documentos\UDB\Ciclo1_2020\PED\Parcial1\Ejercicio2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\chape\OneDrive\Documentos\UDB\Ciclo1_2020\PED\Parcial1\Ejercicio2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csprojAssemblyReference.cache
+C:\Users\chape\OneDrive\Documentos\UDB\Ciclo1_2020\PED\Parcial1\Ejercicio2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\chape\OneDrive\Documentos\UDB\Ciclo1_2020\PED\Parcial1\Ejercicio2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\chape\OneDrive\Documentos\UDB\Ciclo1_2020\PED\Parcial1\Ejercicio2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
